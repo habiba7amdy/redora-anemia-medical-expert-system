@@ -1,0 +1,6 @@
+{
+  "name": "Redora - Anemia Medical Expert System",
+  "description": "Smart, rule-based anemia assessment and classification expert system guiding users from initial symptoms to laboratory analysis and explainable hematological reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
